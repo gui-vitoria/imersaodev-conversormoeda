@@ -1,4 +1,4 @@
-var produto = prompt("Qual o produto ou ** que você quer converter para real?")
+var produto = prompt("Qual o produto que você quer converter para real?")
 
 alert("Hmm, boa pedida. Será que o real ta tão ruim que é melhor pagar em dólar???")
 
