@@ -1,14 +1,14 @@
 body {
     font-family: 'Roboto Mono',monospace;
     min-height: 400px;
-    background-image: url('https://blog.ativainvestimentos.com.br/wp-content/uploads/2019/03/2603-foto-blog.jpg');
+    background-image: url('https://i.pinimg.com/originals/fa/49/4a/fa494a0931009489515e15b6c046ec25.jpg');
     background-color: #000000;
-    background-size: 175vh;
+    background-size: 210vh;
     background-position: center bottom;
     background-repeat: no-repeat;
   }
-  
-  .container {
+
+.container {
     text-align: center;
     padding: 20px;
     height: 100vh;
@@ -23,11 +23,24 @@ body {
     color: #ffffff;
     margin-top: 5px;
   }
+
+h2 {
+    position: absolute;
+    font-size:40px;
+    font-weight:bold;
+    //Distancia do topo da tela
+    top: 30px;
+    left: 35%;
+    //Espaço por linha
+    width: 300px;
+    text-align:center;
+    color: #ffffff;
+  }
   
   .page-logo {
     width: 200px;
   }
-  
+   
   .alura-logo {
     width: 40px;
     position: absolute;
