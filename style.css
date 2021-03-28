@@ -1,7 +1,7 @@
 body {
     font-family: 'Roboto Mono',monospace;
     min-height: 400px;
-    background-image: url('https://i.pinimg.com/originals/fa/49/4a/fa494a0931009489515e15b6c046ec25.jpg');
+    background-image: url('https://image.freepik.com/fotos-gratis/plano-de-fundo-das-novas-notas-de-dolar-com-espaco-para-o-texto_268321-25.jpg');
     background-color: #000000;
     background-size: 210vh;
     background-position: center bottom;
@@ -15,12 +15,12 @@ body {
   }
   
   .page-title {
-    color: #ffffff;
+    color: #696969;
     margin: 0 0 5px;
   }
   
   .page-subtitle {
-    color: #ffffff;
+    color: #696969;
     margin-top: 5px;
   }
 
