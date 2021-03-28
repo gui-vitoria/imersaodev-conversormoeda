@@ -26,15 +26,12 @@ body {
 
 h2 {
     position: absolute;
-    font-size:40px;
-    font-weight:bold;
-    //Distancia do topo da tela
-    top: 30px;
-    left: 35%;
-    //Espaço por linha
-    width: 300px;
+    font-size: 40px;
+    font-weight: bold;
+    top: 25%;
+    left: 22.5%;
     text-align:center;
-    color: #ffffff;
+    color: #696969;
   }
   
   .page-logo {
