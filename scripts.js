@@ -19,3 +19,5 @@ var valorEmRealFixado = valorEmReal.toFixed(2)
 alert("O valor em real será " + "R$ " + valorEmRealFixado)
 
 prompt("Valeu a pena o valor?")
+
+document.write("<h2>Valor em real: R$ " + valorEmRealFixado + "</h2>")
